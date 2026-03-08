@@ -25,7 +25,7 @@ Database:
 
 AI Integration:
 
-* OpenAI API
+* Groq API
 
 ## Features
 
@@ -128,3 +128,4 @@ This project was developed during a 30-hour hackathon focusing on building pract
 ## License
 
 This project is for educational and hackathon purposes.
+
